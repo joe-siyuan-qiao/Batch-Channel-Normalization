@@ -1,12 +1,12 @@
 # Batch-Channel Normalization
 
-This repo holds the codes for [Batch-Channel Normalization](https://arxiv.org/abs/????.?????) (BCN).  
+This repo holds the codes for [Batch-Channel Normalization](http://arxiv.org/abs/1911.09738) (BCN).
 If you find this project helpful, please consider citing our paper.
 ```
 @article{bcnorm,
   author    = {Qiao, Siyuan and Wang, Huiyu and Liu, Chenxi and Shen, Wei and Yuille, Alan},
   title     = {Rethinking Normalization and Elimination Singularity in Neural Networks},
-  journal   = {arXiv preprint arXiv:????.?????},
+  journal   = {arXiv preprint arXiv:1911.09738},
   year      = {2019},
 }
 ```
